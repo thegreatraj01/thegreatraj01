@@ -2,8 +2,8 @@
 <h3 align="center">A curious frontend developer from India</h3>
 
 <p align="left"> <img src="https://media1.giphy.com/media/YbXLZ6dymH758xSEbM/giphy.gif?cid=ecf05e47azd6s0mjxcsk7ew6tl8ei80ebbgauvxazispet4v&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="thegreatraj01" /> </p>
-
-<p align="left"> <a href="https://github.com/thegreatraj01/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thegreatraj01" alt="thegreatraj01" /></a> </p>
+<!-- 
+<p align="left"> <a href="https://github.com/thegreatraj01/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thegreatraj01" alt="thegreatraj01" /></a> </p> -->
 
 - 🌱 I’m currently learning **React**
 

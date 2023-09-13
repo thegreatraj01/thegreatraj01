@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajballav Kumar</h1>
 <h3 align="center">A curious frontend developer from India</h3>
 
-<p align="left"> <img src="" alt="thegreatraj01" /> </p>
+<!-- <p align="left"> <img src="" alt="thegreatraj01" /> </p> -->
 
 
 - 🌱 I’m currently learning **React**

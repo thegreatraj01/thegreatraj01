@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rajballav Kumar</h1>
 <h3 align="center">A curious frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thegreatraj01&label=Profile%20views&color=0e75b6&style=flat" alt="thegreatraj01" /> </p>
+<p align="left"> <img src="https://pin.it/wetjCmh" alt="thegreatraj01" /> </p>
 
-<p align="left"> <a href="https:/thegreatraj01/github.com/the/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thegreatraj01" alt="thegreatraj01" /></a> </p>
 
 - 🌱 I’m currently learning **React**
 
